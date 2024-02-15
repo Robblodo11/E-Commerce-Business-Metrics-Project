@@ -31,19 +31,18 @@ As a junior analyst at an e-commerce company, the company requires you to analyz
 * Apply best practices to organize and document your spreadsheet
 * This includes filling in an executive summary, formatting spreadsheets for readability, and reordering sheet tabs
 * Executive Summary
-  * Table of Contents
-    * Brief overview that highlights the synopsis and descriptions of each sheet within the project
-  * Conversion Funnel
-    * Summarize the findings from the conversion funnel analysis
-  * Retention Rates
-    * Provide insights from the retention rates analysis
-* Analysis
-  * Raw Data
-    * Describe the characteristics of the raw data used in the analysis
-  * Conversion Rates
-    * Explain the methodology and data used for calculating conversion rates
-* Cohort Analysis
-  * Detail how cohorts were formed, the tracking period, and the method of calculating retention rates
+  * Results
+    * Conversion Funnel
+      * Summarize the findings from the conversion funnel analysis
+    * Retention Rates
+      * Provide insights from the retention rates analysis
+  * Analysis
+    * Raw Data
+      * Describe the characteristics of the raw data used in the analysis
+    * Conversion Funnel
+      * Explain the methodology and data used for calculating conversion rates
+    * Retention Rates
+      * Detail how cohorts were formed, the tracking period, and the method of calculating retention rates
 * Sheet Order Legend
   * Table of Contents
     * Organizes sheets and provides descriptions
