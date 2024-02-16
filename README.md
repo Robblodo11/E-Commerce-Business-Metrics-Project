@@ -1,5 +1,6 @@
 # E-Commerce-Business-Metrics-Project
 This Read.ME file provides an overview of the project structure and contents. For detailed instructions and analysis results, please refer to the respective sections in the spreadsheet.
+https://tinyurl.com/E-Commerce-BA-Project
 ## Table of Contents
 ### Project Overview: 
 * Introduction to the project
