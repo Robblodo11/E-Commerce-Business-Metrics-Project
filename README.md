@@ -48,20 +48,29 @@ As a junior analyst at an e-commerce company, the company requires you to analyz
 * Sheet Order Legend
   * Table of Contents
     * Organizes sheets and provides descriptions
+    <img width="941" alt="Screen Shot 2024-02-20 at 7 31 37 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/dbb3b3b8-e91e-458c-881d-7ca6847c5fb5">
   * Executive Summary
     * Summary of analysis results and methodology
+    <img width="630" alt="Screen Shot 2024-02-20 at 7 37 22 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/b5c0a06e-d6e8-4bae-857d-a8cd8edca8ac">
+    <img width="501" alt="Screen Shot 2024-02-20 at 7 37 43 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/09245ece-2e14-4f02-8c2b-1872b7fd8c7c">
   * Conversion Funnel
     * Sheet containing the conversion funnel analysis
+    <img width="683" alt="Screen Shot 2024-02-20 at 7 37 58 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/cfdcb064-6dc5-439a-8be7-ca50aab776ea">
   * Cohort Analysis
     * Sheet with cohort analysis results
+    <img width="727" alt="Screen Shot 2024-02-20 at 7 38 07 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/8b891c95-f712-4b48-92ea-c6a652af6ccc">
   * Retention Rates
     * Sheet presenting retention rate calculations
+    <img width="632" alt="Screen Shot 2024-02-20 at 7 38 14 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/2fb01884-3c5e-44b4-b2b2-d0b78afac154">
   * Purchase Activity
     * Data sheet with filtered purchase events
+    <img width="1434" alt="Screen Shot 2024-02-20 at 7 38 34 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/0025e135-1f4f-434e-a62f-973eba476a54">
   * First Purchase
     * Sheet with first purchase dates calculated
+    <img width="348" alt="Screen Shot 2024-02-20 at 7 38 48 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/959b083f-7ec0-4f4f-91f3-22311f0245be">
   * Raw data sheet
     * Sheet with raw data included
+    <img width="880" alt="Screen Shot 2024-02-20 at 7 39 00 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/cad7366b-e0b1-48dd-afbb-b206c9e79293">
 
 
 
