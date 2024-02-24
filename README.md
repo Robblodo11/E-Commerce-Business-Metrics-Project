@@ -1,8 +1,12 @@
 # E-Commerce-Business-Metrics-Project
 This Read.ME file provides an overview of the project structure and contents. For detailed instructions and analysis results, please refer to the respective sections in the spreadsheet.
 
+### Deployment Instructions
+This Google Sheets project requires deployment through Google Workspace (formerly G Suite) and supports all major web browsers for access. Essential system requirements include the latest versions of Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge. JavaScript must be enabled, and Google Sheets API must be enabled in the Google Cloud Console for advanced functionality.
+
 ### Project Link
 https://tinyurl.com/E-Commerce-BA-Project
+
 ### Demo Link
 https://www.loom.com/share/3a279bb1d6b949c7876be15e0e30310b?sid=ca6f239e-77b2-4479-a88e-3c419ed38fc1
 
