@@ -23,8 +23,7 @@ https://www.loom.com/share/3a279bb1d6b949c7876be15e0e30310b?sid=ca6f239e-77b2-44
 * Applying best practices to the spreadsheet
 * Executive Summary 
 * Sheet Order Legend
-
-## Table of Contents
+----------------------------------
 ### Project Overview
 As a junior analyst at an e-commerce company, the company requires you to analyze their raw transaction logs to understand user behavior and conversion rates
 
